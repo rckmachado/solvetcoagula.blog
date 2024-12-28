@@ -4,8 +4,8 @@ languageCode: en-us
 theme: kidlat
 
 params:
-  short_title: Example News # Change to your website short title
-  display_name: EXAMPLE # Change to your website display name
+  short_title: Solve et Coagula # Change to your website short title
+  display_name: SOLVE et COAGULA # Change to your website display name
   license: Creative Commons BY-SA 4.0 # Change to your website license
   license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en # Change to your license URL
   description: "Example News is the trusted site for news and current events." # Change to your website description
