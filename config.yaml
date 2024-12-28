@@ -10,4 +10,4 @@ params:
   license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en # Change to your license URL
   description: "Example News is the trusted site for news and current events." # Change to your website description
   logo: "/example-news.jpg" # The logo should be inside your static folder
-  footer: <span><a href="http://www.example.org/">rckmachado</a></span> <span><a href="#top">▲</a></span> # Change to your footer text and link
+  footer: <span><a href="http://www.example.org/"> Escrito por rckmachado</a></span> <span><a href="#top">▲</a></span> # Change to your footer text and link
