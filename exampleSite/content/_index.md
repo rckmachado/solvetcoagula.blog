@@ -1,5 +1,5 @@
 ---
-title: Agora funcionou
+title: Solve et Coagula
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
