@@ -2,7 +2,7 @@
   --font-family-heading: {{ .Site.Params.fontFamilyHeading | default "'Poppins', sans-serif" }};
   --font-family-paragraph: {{ .Site.Params.fontFamilyParagraph | default "'Helvetica', sans-serif" }};
   --font-family-monospace: {{ .Site.Params.fontFamilyMonospace | default "monospace" }};
-  --base-color: {{ .Site.Params.baseColor | default "#ffffff" }};
+  --base-color: {{ .Site.Params.baseColor | default "#1c1b1d" }};
   --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#eaeaea" }};
   --highlight-color: {{ .Site.Params.highlightColor | default "#7b16ff" }};
   --heading-color: {{ .Site.Params.headingColor | default "#1c1b1d" }};
