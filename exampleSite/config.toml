@@ -28,8 +28,8 @@ pygmentsUseClasses = true
   highlightColor = '#7b16ff'
   baseColor = "#1c1b1d"
   baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
-  textColor = "#ffffff"
+  headingColor = "#eaeaea"
+  textColor = "#eaeaea"
   dotColor = "#7b16ff"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
